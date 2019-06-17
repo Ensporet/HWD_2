@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b99ad2d-f9b7-4fc8-a6d4-4ce35f495c16" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/IObjectDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/DBElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/IControlerObjectsDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/DBElementKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/defoultCODB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnsDataBase/ConnectionMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/SC/ISC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/Console.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/ConnectionMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Functional/Connection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Ens_Console/Enter_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Functional/ConnectionMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Output/HWOutput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Key.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/DBKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/ICRUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Developers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Skills.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Requests/ReguestAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ens_Console/Enter_default.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Connection/ConnectionConsole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/ISetField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/TestObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/ObjectConsoleSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/PackField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/IPack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Requests/Reguest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/Skills.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/ComPro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/DevSki.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/Companies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/CusPro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/Customers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/Developers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/DevPro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Tables/Projects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Requests/Requests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Requests/ProjectsCost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Requests/ProjectsAnazerVersion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/ICrud.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/DBField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Crud.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HW2/Connection/ConnectionMySQL.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="60" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HWD_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HWD_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HWD_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HWD_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HWD_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="HW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HWD_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560783215487" />
+    <property name="last_opened_file_path" value="D:/HW_8_2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.HW2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\enspo\Desktop\HWD_2\src\main\java" />
+      <recent name="C:\Users\enspo\Desktop\HWD_2\src\main\java\com\HW2" />
+      <recent name="C:\Users\enspo\Desktop\HWD_2\src\main\java\com\HW2\CRUD" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConnectionMySQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HW2.Functional.ConnectionMySQL" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HW2.Functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HW2.Console.ConsoleSet" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HW2.Console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HW2.CRUD.Crud" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HW2.Tables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HW2.Main" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HW2.Connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Requests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HW2.Requests.Requests" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HW2.Requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="defoultCODB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnsDataBase.defoultCODB" />
+      <module name="HWD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EnsDataBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Requests" />
+        <item itemvalue="Application.Crud" />
+        <item itemvalue="Application.ConsoleSet" />
+        <item itemvalue="Application.defoultCODB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b99ad2d-f9b7-4fc8-a6d4-4ce35f495c16" name="Default Changelist" comment="" />
+      <created>1560241716125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560241716125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.24161074" side_tool="true" weight="0.37393767" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.75838923" weight="0.37393767" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49932885" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49328858" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.24161074" side_tool="true" weight="0.37393767" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.75838923" visible="true" weight="0.37393767" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49932885" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49328858" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Ens_Console/Enter_Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Ens_Console/Enter_ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Key.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Output/HWOutput.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleValue.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="620" column="39" selection-start-line="620" selection-start-column="39" selection-end-line="620" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1544">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/IConsoleAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Requests/ReguestAnnotation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ens_Console/Enter_newFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ens_Console/Enter_default.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ens_Console/Enter_null.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ens_Console/Enter_ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ens_Console/Enter_Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Connection/ConnectionConsole.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="999" column="31" selection-start-line="999" selection-start-column="31" selection-end-line="999" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/ISetField.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/TestObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/ObjectConsoleSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/Pack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/IPack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/PackField.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Console/ConsoleSet.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.sql/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="176" column="12" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="531" column="7" lean-forward="true" selection-start-line="478" selection-end-line="531" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1139" column="33" lean-forward="true" selection-start-line="1139" selection-start-column="11" selection-end-line="1139" selection-end-column="33" />
+          <folding>
+            <element signature="e#7420#7421#0" expanded="true" />
+            <element signature="e#7447#7448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2210" column="15" selection-start-line="2210" selection-start-column="15" selection-end-line="2210" selection-end-column="15" />
+          <folding>
+            <element signature="e#84045#84046#0" expanded="true" />
+            <element signature="e#84089#84090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2590#2591#0" expanded="true" />
+            <element signature="class#591:905" />
+            <element signature="class#1266:1567" />
+            <element signature="e#2625#2749#1" />
+            <element signature="e#7618#7619#0" expanded="true" />
+            <element signature="e#3055#3309#1" />
+            <element signature="e#5530#5531#0" expanded="true" />
+            <element signature="e#5568#5569#0" expanded="true" />
+            <element signature="method#printlHashMap#0;class#Main#0" />
+            <element signature="e#9507#9508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/Companies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/ComPro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/CusPro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/Customers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/Developers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/DevPro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/DevSki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/Projects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Tables/Skills.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Requests/Requests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Requests/Reguest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Requests/ProjectsCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Requests/ProjectsAnazerVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/CRUD/ICrud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/CRUD/DBKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/CRUD/DBField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/CRUD/Crud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HW2/Connection/ConnectionMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
