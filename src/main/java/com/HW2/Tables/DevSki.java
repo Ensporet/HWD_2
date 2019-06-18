@@ -2,11 +2,17 @@ package com.HW2.Tables;
 
 import com.HW2.CRUD.DBField;
 import com.HW2.CRUD.DBKey;
+import com.HW2.CRUD.DBReference;
 
+@Table(name = "dev_ski")
 public class DevSki {
+
+    @DBReference(table = "developers", nameColumn = "id_developers")
     @DBField
     @DBKey
     private int id_developers;
+
+    @DBReference(table = "skills", nameColumn = "id_skills")
     @DBField
     @DBKey
     private int id_skills;

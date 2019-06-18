@@ -3,6 +3,7 @@ package com.HW2.Tables;
 import com.HW2.CRUD.DBField;
 import com.HW2.CRUD.DBKey;
 
+@Table(name = "skills")
 public class Skills {
 
     @DBField

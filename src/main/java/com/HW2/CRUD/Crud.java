@@ -8,9 +8,11 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.SQLIntegrityConstraintViolationException;
 import java.util.ArrayList;
 import java.util.List;
 
+// CRUD
 public class Crud<T> implements ICrud<T> {
 
     private String usedTable;
@@ -138,6 +140,8 @@ public class Crud<T> implements ICrud<T> {
     public void add(T t) {
         try {
             getConnectionMySQL().getStatement().executeUpdate(getRequestAdd(t));
+        } catch (SQLIntegrityConstraintViolationException e0) {
+            System.out.println("This key is exists !");
         } catch (SQLException e) {
             e.printStackTrace();
         }
